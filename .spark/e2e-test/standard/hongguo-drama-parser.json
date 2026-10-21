@@ -1,0 +1,1 @@
+{"cases":[{"id":1,"priority":"p0","description":"打开首页，预期看到标题「红果短剧解析下载工具」、副标题、输入框和解析按钮"},{"id":2,"priority":"p0","description":"输入框为空时点击解析按钮，预期显示「请输入分享链接」的错误提示"},{"id":3,"priority":"p0","description":"输入无效链接后点击解析，按钮进入加载态，最终显示解析失败的错误提示"},{"id":4,"priority":"p1","description":"窄屏（mobile）下页面展示正常，输入框与按钮垂直排列，无横向滚动"},{"id":5,"priority":"p1","description":"桌面端下输入框与解析按钮在同一行排列"}]}
